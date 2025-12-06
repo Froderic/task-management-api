@@ -409,17 +409,17 @@ Import the included Postman collection for comprehensive API testing:
 
 ## Development Timeline
 
-**Week 1:** Basic CRUD, validation, error handling  
-**Week 2:** Filtering, pagination, JWT auth, projects feature  
-**Week 3:** (Planned) Deployment and documentation
+**Week 1 (Nov 25-29):** Basic CRUD, validation, error handling, enums, timestamps  
+**Week 2 (Dec 2-6):** Filtering, pagination, JWT authentication, projects feature, documentation  
+**Status:** ✅ Complete and deployed to GitHub
 
 ---
 
 ## Author
 
-**Woo Seok**  
-Aspiring Software Engineer  
-Career transition project - December 2024
+**Woo Seok** | [GitHub: @Froderic](https://github.com/Froderic)  
+Aspiring Software Engineer | Career Transition Project  
+December 2024
 
 ---
 
