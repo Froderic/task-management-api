@@ -418,7 +418,7 @@ Import the included Postman collection for comprehensive API testing:
 ## Author
 
 **Woo Seok** | [GitHub: @Froderic](https://github.com/Froderic)  
-Aspiring Software Engineer | Career Transition Project  
+Backend Developer | Career Transition Project  
 December 2024
 
 ---
