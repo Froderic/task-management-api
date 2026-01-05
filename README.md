@@ -419,7 +419,7 @@ Import the included Postman collection for comprehensive API testing:
 
 **Woo Seok** | [GitHub: @Froderic](https://github.com/Froderic)  
 Backend Developer | Career Transition Project  
-December 2024
+December 2025
 
 ---
 
