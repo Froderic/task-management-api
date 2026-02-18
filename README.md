@@ -411,15 +411,15 @@ Import the included Postman collection for comprehensive API testing:
 
 **Week 1 (Nov 25-29):** Basic CRUD, validation, error handling, enums, timestamps  
 **Week 2 (Dec 2-6):** Filtering, pagination, JWT authentication, projects feature, documentation  
-**Status:** ✅ Complete and deployed to GitHub
+**Status:** ✅ Complete and deployed
 
 ---
 
 ## Author
 
 **Woo Seok** | [GitHub: @Froderic](https://github.com/Froderic)  
-Aspiring Software Engineer | Career Transition Project  
-December 2024
+Backend Developer | Career Transition Project  
+December 2025
 
 ---
 
