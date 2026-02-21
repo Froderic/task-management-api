@@ -12,6 +12,53 @@ A RESTful API for managing tasks and projects with JWT authentication, built wit
 - **Input Validation** - Comprehensive request validation with detailed error messages
 - **DTO Pattern** - Clean separation between API contracts and database entities
 
+## Docker
+
+This application is containerized using Docker for easy deployment and consistent runtime environments.
+
+### Prerequisites
+- Docker Desktop installed and running
+- Docker CLI available in terminal
+
+### Building the Docker Image
+```bash
+# Build the JAR file first
+mvn clean package
+
+# Build Docker image
+docker build -t task-api .
+```
+
+### Running with Docker
+
+**Note:** This Docker setup runs the application only. For full functionality with PostgreSQL, use Docker Compose (see below).
+```bash
+# Run the container (application only - will need external PostgreSQL)
+docker run -p 8080:8080 task-api
+```
+
+### Docker Compose (Application + Database)
+
+For a complete setup with PostgreSQL database:
+```bash
+# Start both application and database
+docker-compose up
+
+# Stop containers
+docker-compose down
+```
+
+The Docker Compose configuration includes:
+- Task Management API (Spring Boot application)
+- PostgreSQL database
+- Automatic network configuration between services
+
+### Docker Files
+
+- `Dockerfile` - Container image definition
+- `docker-compose.yml` - Multi-container orchestration (if available)
+- `.dockerignore` - Files excluded from Docker build
+
 ## Tech Stack
 
 - **Java 21**
